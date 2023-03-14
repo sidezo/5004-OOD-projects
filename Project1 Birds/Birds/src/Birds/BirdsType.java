@@ -1,0 +1,21 @@
+package Birds;
+
+public enum BirdsType {
+    HAWKS,
+    EAGLES,
+    OSPREY,
+    EMUS,
+    KIWIS,
+    MOAS,
+    GREATAUK,
+    HORNEDPUFFIN,
+    AFRICANJACANA,
+    DUCKS,
+    SWANS,
+    GEESE,
+    OWLS,
+    ROSERINGPARAKEET,
+    GRAYPARROT,
+    SULFURCRESTEDCOCKATOO,
+    DUCK, PIGEONS
+}
