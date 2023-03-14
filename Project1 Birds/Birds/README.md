@@ -5,13 +5,6 @@ Greetings.
 3. Then we have a Conservatory class that contains clusters of aviaries.
 4. Aviaries have the option to accept and reject a Birds, since there are rules specifying the quantity and type of birds that can coexisit.
 5. BirdTypes BirdFood etc. are stored as Enums.
-6. No abstraction classes were created, since they were not necessary. 
-
-
- /\ /\ 
-((ovo))
-():::()
-  VVV
-
+6. No abstraction class was created, since it was not necessary. 
 
 
